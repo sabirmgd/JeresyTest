@@ -208,6 +208,6 @@
   </repositories>
   
   <build>
-    <finalName>jersyTest</finalName>
+    <finalName>jeresyTest</finalName>
   </build>
 </project>
